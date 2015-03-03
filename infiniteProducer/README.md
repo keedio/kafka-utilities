@@ -3,6 +3,9 @@
 ## Description
 Java infinite loop kafka producer for testing purpose
 
+## Compilation
+``` mvn clean package ```
+
 ## Use
 Check launch.sh  
 This script expects there is a installation in the same machine in /usr/lib/kafka  
